@@ -1,0 +1,26 @@
+{
+    "beverage": [
+        {
+            "id": "1",
+            "url": "https://seeklogo.com/images/P/pepsi-vertical-logo-72846897FF-seeklogo.com.png",
+            "description": "pepsi",
+            "color": "#013668"
+        },
+        {
+            "id": "2",
+            "url": "https://seeklogo.com/images/F/fanta-logo-9BFEC1C2BB-seeklogo.com.png",
+            "description": "fanta",
+            "color": "#ef8934"
+        }
+    ],
+    "size": [
+        {
+            "id": "1",
+            "url": "",
+            "price": 10,
+            "pricecode": "10.00 THB",
+            "size": "S",
+            "description": "Size: S \nPrice: 10 Bath"
+        }
+    ]
+}
